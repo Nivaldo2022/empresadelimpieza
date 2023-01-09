@@ -45,6 +45,7 @@ app.use((req, res, next) => {
   
 //server running
 app.listen(port, (req,res)  => {
+    console.log(`Running is port: ${port}`);
     console.log(`App listening on http://${config.HOST}:${config.PORT}`);
 });
 

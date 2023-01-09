@@ -1,0 +1,23 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Magic Cleaning",
+  "main": "config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nivaldo2022/empresadelimpieza.git"
+  },
+  "author": "Nivaldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nivaldo2022/empresadelimpieza/issues"
+  },
+  "homepage": "https://github.com/Nivaldo2022/empresadelimpieza#readme"
+}
